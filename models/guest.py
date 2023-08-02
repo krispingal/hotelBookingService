@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from booking import Booking
+from .booking import Booking
 from app import db
 
 

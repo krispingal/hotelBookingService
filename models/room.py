@@ -1,6 +1,6 @@
 from dataclasses import dataclass
-from hotelRoomInventory import HotelRoomInventory
-from booking import Booking
+from .hotelRoomInventory import HotelRoomInventory
+from .booking import Booking
 from app import db
 
 
